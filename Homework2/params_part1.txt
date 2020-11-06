@@ -1,0 +1,6 @@
+eta = 6.61298929
+t-eta = 2.79137969 (by standard errors)
+t-eta = 4.73106121 (by heteroskedasticity-robust standard errors)
+beta = 0.64524563
+t-beta = 4.32648304 (by standard errors)
+t-beta = 7.12052609 (by heteroskedasticity-robust standard errors)

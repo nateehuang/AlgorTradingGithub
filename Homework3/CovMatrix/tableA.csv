@@ -1,0 +1,4 @@
+,Minimum Variance portfolio,Omniscient predictor,Random predictor
+Empirical,0.62 (0.12),30.18 (61.2),35.4 (47.86)
+Clipped,0.48 (0.09),29.75 (123.63),25.4 (38.66)
+RIE Optimal Shrinkage,1.39 (0.23),1.69 (1.62),2.19 (2.36)
